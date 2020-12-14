@@ -6,4 +6,4 @@ Then, using the returned results set it collects the OMDB popularity score and T
 
 Right now it stores the results in a spreadsheet which is more accommodating to the users. However, it could also store them longterm in a db
 
-Lastly, it juxtaposes metrics to actual internal consumption data to give a visual sense of which metrics are more predictive of internal video content performance
+Lastly, it juxtaposes metrics against actual internal consumption data to give a visual sense of which metrics are more predictive of internal video content performance
