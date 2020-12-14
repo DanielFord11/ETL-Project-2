@@ -4,6 +4,6 @@ This is a planning tool for the manual video content curators at my work. (I wor
 
 Then, using the returned results set it collects the OMDB popularity score and Twitter buzz (how many hashtags mention the movie in the past 24hrs and what the combine follower count of the people making those posts)
 
-Right now in stores the results in a spreadsheet which is more accommodating to the users. However, it could also store them longterm in a db
+Right now it stores the results in a spreadsheet which is more accommodating to the users. However, it could also store them longterm in a db
 
 Lastly, it juxtaposes metrics to actual internal consumption data to give a visual sense of which metrics are more predictive of internal video content performance
